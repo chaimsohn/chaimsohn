@@ -9,10 +9,8 @@
 
   ##
 <div>
-<!--  <a href="https://www.linkedin.com/in/chaimsohn" /> -->
         <img height=170em src= https://github-readme-stats.vercel.app/api?username=chaimsohn&show_icons=true&count_private=true&theme=tokyonight>
         <img height=170em  src= https://github-readme-stats.vercel.app/api/top-langs/?username=chaimsohn&layout=donut&theme=tokyonight>
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md -->
 </div>
 
 ### Atualmente tenho conhecimento/estudo 
