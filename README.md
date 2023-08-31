@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub! Sou Danilo Chaimsohn 👋
 
- Tenho 32 anos, sou de Salvador/BA 😊
+ Tenho 31 anos, sou de Salvador/BA 😊
 
 - <div> Bacharel em Ciência e Tecnologia - UFBA<img align="center" alt="logo-java" height="30" width="30" src="https://proext.ufba.br/sites/proext.ufba.br/files/svg_brasao-ufba.svg" /></div>
 - <div> Estudante de Bacharelado em Sistemas de Informação - UFBA<img align="center" alt="logo-java" height="30" width="30" src="https://proext.ufba.br/sites/proext.ufba.br/files/svg_brasao-ufba.svg" /></div>
